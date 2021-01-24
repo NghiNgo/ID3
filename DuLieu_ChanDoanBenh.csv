@@ -1,0 +1,18 @@
+﻿TenBoPhan,TenVung,buonnon,dau,dayhoi,non,ohoi,onlanh,Sot,dienbiencondau,huonglan,kieudau,yeutoanhhuongdencondau,MaICD
+Bung,Thuong vi,null,Yes,null,null,null,null,null,Dau khi khong an (thoi diem giua cac bua an),null,Cang tuc hoac du doi,null,K25
+Bung,Ha suon trai,null,Yes,null,null,null,null,null,Dau khi khong an (thoi diem giua cac bua an),null,Cang tuc hoac du doi,null,K25
+Bung,Thuong vi,null,Yes,Yes,null,Yes,null,null,Dau khi khong an (thoi diem giua cac bua an),null,null,null,K26
+Bung,Ha suon trai,null,Yes,Yes,null,Yes,null,null,Dau khi khong an (thoi diem giua cac bua an),null,null,null,K26
+Bung,Thuong vi,Yes,Yes,null,Yes,null,null,null,Con dau keo dai lien tuc vai gio,null,Cang tuc hoac du doi,null,K29
+Bung,Ha suon trai,Yes,Yes,null,Yes,null,null,null,Con dau keo dai lien tuc vai gio,null,Cang tuc hoac du doi,null,K29
+Bung,Ha suon phai,null,Yes,null,null,null,null,null,Keo dai am i tung con,null,Dau nhoi,null,K75
+Bung,Ha suon phai,null,Yes,null,null,null,null,null,null,Len vai phai,Cang tuc hoac du doi,Bua an cu nhieu chat boo,K80
+Bung,Thuong vi,null,Yes,null,null,null,null,null,null,Len vai phai,Cang tuc hoac du doi,Bua an cu nhieu chat boo,K80
+Bung,Ha suon phai,null,Yes,null,null,null,null,null,Keo dai am i tung con,Len vai phai,Dau nhoi,null,K81
+Bung,Thuong vi,null,Yes,null,null,null,null,null,Keo dai am i tung con,Len vai phai,Dau nhoi,null,K81
+Bung,Ha suon phai,null,Yes,null,null,null,null,null,Dau trong khi an,Ra sau lung,null,Bua an cu nhieu chat boo,K85
+Bung,Thuong vi,null,Yes,null,null,null,null,null,Dau trong khi an,Ra sau lung,null,Bua an cu nhieu chat boo,K85
+Bung,Mang mo phai,Yes,Yes,null,null,null,Yes,Yes,null,Ra sau lung,null,null,N05
+Bung,Mang mo trai,Yes,Yes,null,null,null,Yes,Yes,null,Ra sau lung,null,null,N05
+Bung,Mang mo phai,null,Yes,null,null,null,null,null,Keo dai am i tung con,Xuong vung bung duoi,Cang tuc hoac du doi,null,N20
+Bung,Mang mo trai,null,Yes,null,null,null,null,null,Keo dai am i tung con,Xuong vung bung duoi,Cang tuc hoac du doi,null,N20

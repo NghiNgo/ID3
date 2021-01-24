@@ -1,0 +1,2 @@
+D:\Code\ID3\Debug\ID3.exe
+D:\Code\ID3\Debug\ID3.pdb

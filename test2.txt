@@ -1,0 +1,3 @@
+outlook,temperature,humidity,windy,play
+sunny,hot,high,false,?
+sunny,hot,high,true,?
